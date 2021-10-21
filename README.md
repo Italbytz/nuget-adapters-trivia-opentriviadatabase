@@ -1,0 +1,1 @@
+# nuget-adapters-trivia-opentriviadatabase
